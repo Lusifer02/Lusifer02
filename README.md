@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lalit Mohanty</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
+<img align="right" alt="coding" width="250" src="https://github.com/Lusifer02/Lusifer02/assets/109870003/9c1b640e-18f6-46f8-b8c5-4d9221138e05.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusifer02&label=Profile%20views&color=0e75b6&style=flat" alt="lusifer02" /> </p>
 
 - 🌱 I’m currently learning **MongoDB**
