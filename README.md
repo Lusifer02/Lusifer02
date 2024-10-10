@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>MongoDB<br><br>💬 **Ask me about:**  <br>JavaScript, React and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating new stuffs.
+<br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Backend<br><br>💬 **Ask me about:**  <br>JavaScript, React and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating new stuffs.
 
 
 ## 🌐 Socials:
